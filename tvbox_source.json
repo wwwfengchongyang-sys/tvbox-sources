@@ -1,0 +1,17 @@
+{
+  "name": "我的GitHub播放源",
+  "type": "m3u",
+  "url": "https://iptv-org.github.io/iptv/streams/cn.m3u",
+  "channels": [
+    {
+      "name": "央视综合频道",
+      "url": "https://live-cctv1.webvpn.chncpa.org/live/cctv1/index.m3u8",
+      "logo": "https://p0.ifengimg.com/feather/images/2024/03/15/17/17104751289131401.png"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "https://wstv.cdn.myqcloud.com/live/hunanhd.m3u8",
+      "logo": "https://p1.ifengimg.com/feather/images/2024/03/15/17/17104752289131402.png"
+    }
+  ]
+}
